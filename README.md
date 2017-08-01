@@ -1,2 +1,5 @@
 # CodeMama
-My fiancee expressed interest in learning how to program... This might last until the end of the day.
+
+This is an attempt at a loosely guided path to learning how to program.  It is completely written with my fiancee in mind.  YMMV.
+
+
