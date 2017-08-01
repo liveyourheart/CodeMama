@@ -1,0 +1,24 @@
+
+********************
+www.freecodecamp.org 
+********************
+Complete the HTML and CSS Section.  This is a great introduction to html and css, however it is far from exhaustive.
+
+
+********************
+        MDN
+********************
+Mozilla provides incredible documentation for all things web related.
+https://developer.mozilla.org/en-US/docs/Web/HTML
+There is a lot more in the MDN, but it is very dense.
+
+********************
+    Stack Overflow
+********************
+
+Stack Overflow is love. Stack Overflow is life.
+
+********************
+      w3Schools
+********************
+w3schools.com is not very highly regarded... however it does a nice job of providing introductory documentation to new programmers.
