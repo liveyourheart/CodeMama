@@ -1,2 +1,4 @@
-# CodeMama
-My fiancee expressed interest in learning how to program... This might last until the end of the day.
+# Goals
+
+1. Python as a first language.
+2. Front-End
